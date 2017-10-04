@@ -1,6 +1,6 @@
-# layui_mode
+# layV_template
 
-> A Vue.js project
+> 一个layui+vue的后台管理单页基础骨架
 
 ## Build Setup
 
@@ -20,6 +20,4 @@ npm run build
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-# layV_template
-一个layui+vue的后台管理单页基础骨架
 
